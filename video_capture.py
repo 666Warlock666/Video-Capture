@@ -4,7 +4,6 @@ import os
 import shutil
 # Read the video from specified path
 
-#cam = cv2.VideoCapture("Y:\\VR\\VR Conk - Vanessa Moon - Free Guy - A XXX Parody _LR_180.mp4")
 
 import sys
 import pathlib
